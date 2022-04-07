@@ -1,7 +1,8 @@
-# Sobre mim
+# Sobre  mim
+## sus
 - 👋 Hi, I’m @CarlosMueller
 - 👀 Eu estou interessado em aprender a programar novas linguagens 
-- 🌱 Eu estou aprendendo a programar em linguagem de javascript e scratch
+- 🌱 Eu estou aprendendo a programar em linguagem de javascript e scratch.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
